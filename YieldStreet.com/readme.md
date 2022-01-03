@@ -1,2 +1,4 @@
 # Ally
 YieldStreet.com - https://www.yieldstreet.com/generate-passive-income/?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=Display_Static_Remarketing_CI&amp;utm_content=OpportunitiesRDA&amp;g_adtype=display&amp;g_network=d&amp;g_adid=525578529573&amp;g_keyword=&amp;g_adgroupid=98533055425&amp;g_keywordid=&amp;g_acctid=323-576-2402&amp;g_campaign=D+-+Static+Retargeting&amp;g_campaignid=380196404&amp;gclid=EAIaIQobChMItLmEh4OU9QIV4odaBR38LgrREAEYASAAEgK7kvD_BwE
+
+https://www.yieldstreet.com/generate-passive-income/?utm_source=google&utm_medium=cpc&utm_campaign=Display_Static_Remarketing_AllVisitor_EC&utm_content=Responsive-Simulator&g_adtype=display&g_network=d&g_adid=526480365838&g_keyword=&g_adgroupid=27149197364&g_keywordid=aud-897336738207&g_acctid=323-576-2402&g_campaign=D+-+Static+Retargeting&g_campaignid=380196404&gclid=Cj0KCQiAt8WOBhDbARIsANQLp94B6llQH_xQZkSpTdsVRLlH9cqOPAfgua7gPtkCyTZ2XN70MoWKKdUaAvMyEALw_wcB
